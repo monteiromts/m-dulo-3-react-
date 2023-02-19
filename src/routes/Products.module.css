@@ -1,0 +1,30 @@
+.container {
+    min-height: 80vh;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    /* border: solid 1px black; */
+    width: 310px;
+    height: 270px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card img {
+    width: 200px;
+    /* border: solid red 1px; */
+}
+
+.card p {
+    /* border: solid 1px red; */
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    
+}

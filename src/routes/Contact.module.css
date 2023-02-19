@@ -1,0 +1,16 @@
+.container {
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.feedback {
+    font-size: 15px;
+    color: black;
+}
+
+.tittle {
+    font-size: 35px;
+}

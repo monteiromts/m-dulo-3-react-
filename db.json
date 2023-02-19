@@ -1,0 +1,676 @@
+{
+  "posts": [
+    {
+      "nome": "Alvaro Luiz",
+      "email": "alvaroluizpoubel@outlook.com",
+      "comentario": "Proços ótimos ! Consegui montar meu sonhado PC Gamer",
+      "id": 1
+    },
+    {
+      "nome": "Janaina Souza",
+      "email": "janasouza20@gmail.com",
+      "comentario": "Montei o meu computador para trabalho, preços acessíveis e entra rápida. Muito provável retornarei para montar o pc do meu filho.",
+      "id": 2
+    }
+  ],
+  "SSD": [
+    {
+      "id": 1,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/152041/SSD-Hikvision-C100-240GB-SATA-Leitura-550MB-s-Grava-o-450MB-s-Hs-ssd-c100-240g_1675343996_m.jpg",
+      "nome": "SSD Hikvision C100, 480GB",
+      "modelo": "HS-SSD-C100",
+      "marca": "Hikvision",
+      "preco": 399.9,
+      "capacidade": "480 GB"
+    },
+    {
+      "id": 2,
+      "foto": "https://images.kabum.com.br/produtos/fotos/85197/85197_1484306076_m.jpg",
+      "nome": "SSD 240 GB Kingston",
+      "modelo": "A400",
+      "marca": "Kingston",
+      "preco": 154.99,
+      "capacidade": "240 GB"
+    },
+    {
+      "id": 3,
+      "foto": "https://images.kabum.com.br/produtos/fotos/113888/ssd-128-gb-husky-gaming-2-5-sata-iii-leitura-570mb-s-e-gravacao-500mb-s-preto-hgml000_1671807777_m.jpg",
+      "nome": "SSD 128 GB Husky Gaming",
+      "modelo": "HGML000",
+      "marca": "Husky Gaming",
+      "preco": 99.9,
+      "capacidade": "128 GB"
+    },
+    {
+      "id": 4,
+      "foto": "https://images.kabum.com.br/produtos/fotos/147640/ssd-wd-green-pc-sn350-480gb-pcie-nvme-leitura-2400mb-s-escrita-900mb-s-wds480g2g0c_1612534888_m.jpg",
+      "nome": "SSD 480 GB WD Green",
+      "modelo": "WDS480G3G0A",
+      "marca": "WD Green",
+      "preco": 239.99,
+      "capacidade": "480 GB"
+    },
+    {
+      "id": 5,
+      "foto": "https://images.kabum.com.br/produtos/fotos/85197/85197_1484306076_m.jpg",
+      "nome": "SSD 500 GB Kingston NV2",
+      "modelo": "SNV2S/500G",
+      "marca": "Kingston",
+      "preco": 309.99,
+      "capacidade": "500 GB"
+    },
+    {
+      "id": 6,
+      "foto": "https://images.kabum.com.br/produtos/fotos/127700/ssd-xpg-s41-tuf-512gb-m-2-pcie-leituras-3500mb-s-e-gravacoes-2400mb-s-agammixs41-512g-c_1606395097_m.jpg",
+      "nome": "SSD 512 GB XPG S41 TUF, M.2",
+      "modelo": "AGAMMIXS41-512G-C",
+      "marca": "XPG",
+      "preco": 438.81,
+      "capacidade": "512 GB"
+    },
+    {
+      "id": 7,
+      "foto": "https://images.kabum.com.br/produtos/fotos/378464/ssd-crucial-bx500-sata-500gb-3d-nand-leitura-540mb-s-e-gravacao-500mb-s-ct500bx500ssd1_1667495528_m.jpg",
+      "nome": "SSD Crucial BX500 SATA",
+      "modelo": "CT500BX500SSD1",
+      "marca": "Crucial",
+      "preco": 214.99,
+      "capacidade": "500 GB"
+    },
+    {
+      "id": 8,
+      "foto": "https://images.kabum.com.br/produtos/fotos/155124/ssd-patriot-burst-elite-120gb-2-5-sata-iii-leitura-450mb-s-e-gravacao-320mb-s-pbe120gs25ssdr_1620915564_m.jpg",
+      "nome": "SSD Patriot Burst Elite",
+      "modelo": "PBE120GS25SSDR",
+      "marca": "Burst",
+      "preco": 79.99,
+      "capacidade": "120 GB"
+    },
+    {
+      "id": 9,
+      "foto": "https://images.kabum.com.br/produtos/fotos/364620/ssd-pny-1tb-sata-iii-2-5-leituras-535-mb-s-gravacao-515-mb-s-ssd7cs900-1tb-rb_1659027437_m.jpg",
+      "nome": "SSD 1 TB PNY, SATA III",
+      "modelo": "SSD7CS900",
+      "marca": "PNY",
+      "preco": 389.9,
+      "capacidade": "1TB"
+    },
+    {
+      "id": 10,
+      "foto": "https://images.kabum.com.br/produtos/fotos/272355/ssd-kingston-fury-renegade-500gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-3-900mb-s-sfyrs-500g_1637326237_m.jpg",
+      "nome": "SSD Kingston Fury Renegade",
+      "modelo": "SFYRS/1000G",
+      "marca": "Kingston Fury",
+      "preco": 899.99,
+      "capacidade": "1 TB"
+    },
+    {
+      "id": 11,
+      "foto": "https://images.kabum.com.br/produtos/fotos/100025/ssd-adata-xpg-gammix-s11-512gb-m-2-leitura-3500mb-s-gravacao-300mb-s-agammixs11p-512gt-c__1548847497_m.jpg",
+      "nome": "SSD Adata XPG Gammix S11",
+      "modelo": "AGAMMIXS11P-256GT-C",
+      "marca": "XPG",
+      "preco": 239.9,
+      "capacidade": "256 GB"
+    },
+    {
+      "id": 12,
+      "foto": "https://images.kabum.com.br/produtos/fotos/165671/ssd-externo-portatil-sandisk-480gb-usb-leitura-520mb-s-sdssde30-480g-g25_1626697633_m.jpg",
+      "nome": "SSD Externo 480 GB Sandisk",
+      "modelo": "SDSSDE30-480G-G25",
+      "marca": "Sandisk",
+      "preco": 439.9,
+      "capacidade": "480 GB"
+    }
+  ],
+  "PlacaDeVideo": [
+    {
+      "id": 1,
+      "foto": "https://images.kabum.com.br/produtos/fotos/110396/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1660-super-twin-fan-6gb-gddr6-zt-t16620f-10l_1582210172_m.jpg",
+      "nome": "GTX 1660 Super Twin Fan",
+      "modelo": "ZT-T16620F-10L",
+      "marca": "Zotac",
+      "preco": 1529.99,
+      "capacidade": "6GB"
+    },
+    {
+      "id": 2,
+      "foto": "https://images.kabum.com.br/produtos/fotos/191789/placa-de-video-galax-nvidia-geforce-rtx-3060-ti-1-click-oc-14-gbps-8gb-gddr6-lhr-dlss-ray-tracing-preto-36isl6md1vqw_1629400274_m.jpg",
+      "nome": "RTX 3090 TI EX Gamer Galax",
+      "modelo": "39IXM5MD6HEX",
+      "marca": "Galax",
+      "preco": 20990,
+      "capacidade": "24GB"
+    },
+    {
+      "id": 3,
+      "foto": "https://images.kabum.com.br/produtos/fotos/101268/101268_1554380220_index_m.jpg",
+      "nome": "GTX 1630 EX Galax",
+      "modelo": "63NQL4HP66EX",
+      "marca": "Galax",
+      "preco": 399.9,
+      "capacidade": "4GB"
+    },
+    {
+      "id": 4,
+      "foto": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244899_m.jpg",
+      "nome": "RTX 3060 Asus Dual O12G V2",
+      "modelo": "Dual RTX 3060 O12G V2",
+      "marca": "ASUS",
+      "preco": 2399.99,
+      "capacidade": "12GB"
+    },
+    {
+      "id": 5,
+      "foto": "https://images.kabum.com.br/produtos/fotos/396373/placa-de-video-pcyes-nvidia-geforce-gtx-1050-ti-4-gb-gddr5-128bits-dual-fan-graffiti-series-paxgtx1050ti4gbdr5_1666992002_m.jpg",
+      "nome": "Pcyes GTX 1050 Ti",
+      "modelo": "PAXGTX1050TI4GBDR5",
+      "marca": "Pcyes",
+      "preco": 999.9,
+      "capacidade": "4 GB"
+    },
+    {
+      "id": 6,
+      "foto": "https://images.kabum.com.br/produtos/fotos/403373/placa-de-video-rtx-4070-ti-ventus-msi-geforce-geforce-rtx-4070-ti-ventus-3x-12g-oc_1672759859_m.jpg",
+      "nome": "RTX 4070 Ti Gaming MSI",
+      "modelo": "GeForce RTX 4070",
+      "marca": "MSI",
+      "preco": 6999.9,
+      "capacidade": "12 GB"
+    },
+    {
+      "id": 7,
+      "foto": "https://images.kabum.com.br/produtos/fotos/304859/placa-de-video-pny-nvidia-geforce-rtx-a4500-20gb-gddr6-ray-tracing-vcnrtxa4500-pb_1643038026_m.jpg",
+      "nome": "Quadro RTX A4500 PNY",
+      "modelo": "VCNRTXA4500-PB",
+      "marca": "PNY",
+      "preco": 7999.9,
+      "capacidade": "20GB"
+    },
+    {
+      "id": 8,
+      "foto": "https://images.kabum.com.br/produtos/fotos/402564/placa-de-video-rtx-4070-ti-gigabyte-nvidia-geforce-12-gb-gddr6x-dlss-3-ray-tracing-gv-n407teagle-oc-12gd_1672920613_m.jpg",
+      "nome": "RTX 4070 Ti Gaming Gigabyte",
+      "modelo": "GV-N407TGAMING OC-12GD",
+      "marca": "Gigabyte",
+      "preco": 6799.9,
+      "capacidade": "12 GB"
+    },
+    {
+      "id": 9,
+      "foto": "https://images.kabum.com.br/produtos/fotos/397576/placa-de-video-pny-geforce-rtx-4080-xlr8-gaming-verto-epic-x-rgb-16-gb-gddr6x-dlss-ray-tracing-vcg408016tfxxpb1-o_1666992885_m.jpg",
+      "nome": "RTX 4080 XLR8 Gaming",
+      "modelo": "VCG408016TFXXPB1-O",
+      "marca": "PNY",
+      "preco": 9399.9,
+      "capacidade": "16 GB"
+    },
+    {
+      "id": 10,
+      "foto": "https://images.kabum.com.br/produtos/fotos/101524/placa-de-video-pcyes-nvidia-geforce-g210-1gb-ddr3-pa210g6401d3lp_placa-de-video-pcyes-nvidia-geforce-g210-1gb-ddr3-pa210g6401d3lp_1556277926_m.jpg",
+      "nome": "Placa de Vídeo G210 PCYes",
+      "modelo": "PA210G6401D3LP",
+      "marca": "PCYes",
+      "preco": 159.9,
+      "capacidade": "1 GB"
+    },
+    {
+      "id": 11,
+      "foto": "https://images.kabum.com.br/produtos/fotos/113182/placa-de-video-evga-nvidia-geforce-rtx-2060-ko-ultra-gaming-6gb-gddr6-06g-p4-2068-kr_1591820558_m.jpg",
+      "nome": "RTX 2060 KO Ultra Gaming",
+      "modelo": "06G-P4-2068-KR",
+      "marca": " Evga",
+      "preco": 1899.9,
+      "capacidade": "6 GB"
+    },
+    {
+      "id": 12,
+      "foto": "https://images.kabum.com.br/produtos/fotos/397531/placa-de-video-power-color-red-devil-amd-radeon-rx-6650-xt-8-gb-gddr6-argb-ray-tracing-axrx-6650xt-8gbd6-3dhe-oc_1668713802_m.jpg",
+      "nome": "Red Devil RX 6650",
+      "modelo": "8GBD6-3DHE/OC",
+      "marca": "Powercolor",
+      "preco": 2399.9,
+      "capacidade": "8 GB"
+    }
+  ],
+  "Processadores": [
+    {
+      "id": 1,
+      "foto": "https://images.kabum.com.br/produtos/fotos/333145/processador-amd-ryzen-5-4600g-cache-11mb-3-7ghz-4-2ghz-max-turbo-am4-video-integrado-100-100000147box_1653338731_m.jpg",
+      "nome": "AMD Ryzen 5 4600G",
+      "modelo": "100-100000147BOX",
+      "marca": "AMD",
+      "preco": 589.9,
+      "capacidade": "11MB"
+    },
+    {
+      "id": 2,
+      "foto": "https://images.kabum.com.br/produtos/fotos/181089/processador-amd-ryzen-7-5700g-3-8ghz-4-6ghz-max-turbo-am4-video-integrado-8-nucleos-100-100000263box_1627588652_m.jpg",
+      "nome": "AMD Ryzen 7 5700X",
+      "modelo": "100-100000926WOF",
+      "marca": "AMD",
+      "preco": 1329.9,
+      "capacidade": "36MB"
+    },
+    {
+      "id": 3,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/315050/Processador-Intel-Core-I5-12400F-12-Gera-o-2-5GHz-4-4GHz-Turbo-Hexa-Core-12-Threads-LGA-1700-BX8071512400F_1674577716_m.jpg",
+      "nome": "Intel Core i5",
+      "modelo": "BX8070110400F",
+      "marca": "Intel",
+      "preco": 899.9,
+      "capacidade": "12MB"
+    },
+    {
+      "id": 4,
+      "foto": "https://images.kabum.com.br/produtos/fotos/333145/processador-amd-ryzen-5-4600g-cache-11mb-3-7ghz-4-2ghz-max-turbo-am4-video-integrado-100-100000147box_1653338731_m.jpg",
+      "nome": "AMD Ryzen 5 5600",
+      "modelo": "100-100000927BOX",
+      "marca": "AMD",
+      "preco": 919.9,
+      "capacidade": "35MB"
+    },
+    {
+      "id": 5,
+      "foto": "https://images.kabum.com.br/produtos/fotos/181089/processador-amd-ryzen-7-5700g-3-8ghz-4-6ghz-max-turbo-am4-video-integrado-8-nucleos-100-100000263box_1627588652_m.jpg",
+      "nome": "AMD Ryzen 7 5800X3D",
+      "modelo": "100-100000651WOF",
+      "marca": "AMD",
+      "preco": 2149.9,
+      "capacidade": "100MB"
+    },
+    {
+      "id": 6,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/162821/Processador-Intel-Pentium-Gold-G6400-BX80701G6400_1674577697_m.jpg",
+      "nome": "Intel Pentium Gold G6405",
+      "modelo": "BX80701G6405",
+      "marca": "Intel",
+      "preco": 389.9,
+      "capacidade": "4MB"
+    },
+    {
+      "id": 7,
+      "foto": "https://images.kabum.com.br/produtos/fotos/333145/processador-amd-ryzen-5-4600g-cache-11mb-3-7ghz-4-2ghz-max-turbo-am4-video-integrado-100-100000147box_1653338731_m.jpg",
+      "nome": "AMD Ryzen 5 5600G",
+      "modelo": " 100-100000252BOX",
+      "marca": "AMD",
+      "preco": 987.9,
+      "capacidade": "16MB"
+    },
+    {
+      "id": 8,
+      "foto": "https://images.kabum.com.br/produtos/fotos/112995/processador-intel-core-i7-10700f-cache-16mb-2-9ghz-lga-1200-bx8070110700f_1589225905_m.jpg",
+      "nome": "Intel Core i7-13700K",
+      "modelo": "BX8071513700K",
+      "marca": "Intel",
+      "preco": 3573.9,
+      "capacidade": "30MB"
+    },
+    {
+      "id": 9,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/315050/Processador-Intel-Core-I5-12400F-12-Gera-o-2-5GHz-4-4GHz-Turbo-Hexa-Core-12-Threads-LGA-1700-BX8071512400F_1674577716_m.jpg",
+      "nome": "Intel Core I5-11400",
+      "modelo": "11ª Geração, 2.6GHz ",
+      "marca": "Intel",
+      "preco": 1066.9,
+      "capacidade": "12MB"
+    },
+    {
+      "id": 10,
+      "foto": "https://images.kabum.com.br/produtos/fotos/112998/processador-intel-core-i9-10900-cache-20mb-2-8ghz-lga-1200-bx8070110900_1589227433_m.jpg",
+      "nome": "Intel Core I9 13900K",
+      "modelo": "I9 13900K",
+      "marca": "Intel",
+      "preco": 5967.9,
+      "capacidade": "36MB"
+    },
+    {
+      "id": 11,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/393245/Processador-AMD-Ryzen-Threadripper-PRO-5965WX-4-5GHz-Cache-140MB-2Quad-Core-48-Threads-SWRX8-100-000000446WOF_1674577735_m.jpg",
+      "nome": "AMD Ryzen PRO 5965WX",
+      "modelo": "100-000000446WOF",
+      "marca": "AMD",
+      "preco": 18587.9,
+      "capacidade": "140MB"
+    },
+    {
+      "id": 12,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/393245/Processador-AMD-Ryzen-Threadripper-PRO-5965WX-4-5GHz-Cache-140MB-2Quad-Core-48-Threads-SWRX8-100-000000446WOF_1674577735_m.jpg",
+      "nome": "AMD Ryzen Pro 5995WX",
+      "modelo": "Threadripper Pro 5995WX",
+      "marca": "AMD",
+      "preco": 46999.9,
+      "capacidade": "256 MB"
+    }
+  ],
+  "memorias": [
+    {
+      "id": 1,
+      "foto": "https://images.kabum.com.br/produtos/fotos/114222/memoria-husky-8gb-2666mhz-ddr4-cl19-preto-hmr-d4826_1597862504_m.jpg",
+      "nome": "Memória Gamer Husky",
+      "modelo": "HMR-D4826",
+      "marca": "Husky Gaming",
+      "preco": 149.9,
+      "capacidade": " 8GB"
+    },
+    {
+      "id": 2,
+      "foto": "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_m.jpg",
+      "nome": "Memória Kingston Fury",
+      "modelo": " KF432C16BBA/8",
+      "marca": "Kingston",
+      "preco": 275.9,
+      "capacidade": "8GB"
+    },
+    {
+      "id": 3,
+      "foto": "https://images.kabum.com.br/produtos/fotos/172365/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-cl16-preto-kf432c16bb-8_1626270523_m.jpg",
+      "nome": "Memória Kingston Fury",
+      "modelo": "KF432C16BBA/16",
+      "marca": "Kingston",
+      "preco": 359.9,
+      "capacidade": "16GB"
+    },
+    {
+      "id": 4,
+      "foto": "https://images.kabum.com.br/produtos/fotos/75803/75803_index_m.jpg",
+      "nome": "Memória Corsair",
+      "modelo": "CMK32GX4M2A2400C16",
+      "marca": "Corsair",
+      "preco": 499.9,
+      "capacidade": "32GB"
+    },
+    {
+      "id": 5,
+      "foto": "https://images.kabum.com.br/produtos/fotos/111071/memoria-corsair-vengeance-8gb-1600mhz-ddr3-c9-cmz8gx3m1a1600c9_1590000913_m.jpg",
+      "nome": "Memória Corsair LPX",
+      "modelo": "CMK32GX4M2A2666C16",
+      "marca": "Corsair",
+      "preco": 569.9,
+      "capacidade": "32GB"
+    },
+    {
+      "id": 6,
+      "foto": "https://images.kabum.com.br/produtos/fotos/382750/memoria-corsair-vengeance-rgb-rs-8gb-3200mhz-ddr4-c16-preto-cmg8gx4m1e3200c16_1665515160_m.jpg",
+      "nome": "Memória Corsair RGB",
+      "modelo": "CMW16GX4M2C3200C16",
+      "marca": "Corsair",
+      "preco": 649.9,
+      "capacidade": "16GB"
+    },
+    {
+      "id": 7,
+      "foto": "https://images.kabum.com.br/produtos/fotos/193637/memoria-kingston-fury-beast-rgb-16gb-3200mhz-ddr4-cl16-preto-kf432c16bba-16_1630956135_m.jpg",
+      "nome": "Memória Kingston Fury",
+      "modelo": " KF552C40BBAK2-16",
+      "marca": "Kingston",
+      "preco": 799.9,
+      "capacidade": " 16GB"
+    },
+    {
+      "id": 8,
+      "foto": "https://images.kabum.com.br/produtos/fotos/229176/memoria-corsair-vengeance-lpx-8gb-3200mhz-ddr4-cl16-preta-cmk8gx4m1e3200c16_1631635307_m.jpg",
+      "nome": "Memória Corsair Vengeance",
+      "modelo": " CMK32GX4M2D3600C18",
+      "marca": "Corsair",
+      "preco": 849.9,
+      "capacidade": "32GB"
+    },
+    {
+      "id": 9,
+      "foto": "https://images.kabum.com.br/produtos/fotos/155514/memoria-xpg-gammix-d10-8gb-3200mhz-ddr4-cl-16-preto-ax4u32008g16a-sb10_1625514904_m.jpg",
+      "nome": "Memória XPG Lancer",
+      "modelo": "AX5U6000C4016G-CLARBK",
+      "marca": "XPG",
+      "preco": 949.9,
+      "capacidade": "16GB"
+    },
+    {
+      "id": 10,
+      "foto": "https://images.kabum.com.br/produtos/fotos/193637/memoria-kingston-fury-beast-rgb-16gb-3200mhz-ddr4-cl16-preto-kf432c16bba-16_1630956135_m.jpg",
+      "nome": "Memória Kingston Fury",
+      "modelo": "KF436C18BBAK2/32",
+      "marca": "Kingston FURY",
+      "preco": 1050.9,
+      "capacidade": "32GB "
+    },
+    {
+      "id": 11,
+      "foto": "https://images.kabum.com.br/produtos/fotos/229176/memoria-corsair-vengeance-lpx-8gb-3200mhz-ddr4-cl16-preta-cmk8gx4m1e3200c16_1631635307_m.jpg",
+      "nome": "Memória Corsair Vengeance",
+      "modelo": "CMK32GX5M2B5600C36",
+      "marca": "Corsair",
+      "preco": 1465.9,
+      "capacidade": "32GB"
+    },
+    {
+      "id": 12,
+      "foto": "https://images.kabum.com.br/produtos/fotos/388078/memoria-kingston-fury-beast-rgb-32gb-4800mhz-ddr5-cl38-preto-kf548c38bba-32_1666039907_m.jpg",
+      "nome": "Memória Kingston",
+      "modelo": "KSM26RD4/64HAR",
+      "marca": "Kingston",
+      "preco": 6051.9,
+      "capacidade": "64GB"
+    }
+  ],
+  "Fontes": [
+    {
+      "id": 1,
+      "foto": "https://images.kabum.com.br/produtos/fotos/370662/fonte-gamer-vinik-dash-400w-bivolt-selecionavel-preto-vfg400wp_1660047738_m.jpg",
+      "nome": "Fonte Gamer Vinik Dash",
+      "modelo": "VFG400WP",
+      "marca": "Vinik",
+      "preco": 149.9,
+      "capacidade": "400W"
+    },
+    {
+      "id": 2,
+      "foto": "https://images.kabum.com.br/produtos/fotos/96696/96696_1_1526474061_m.jpg",
+      "nome": "Fonte Aerocool KCAS",
+      "modelo": " KCAS",
+      "marca": "Aerocool",
+      "preco": 249.9,
+      "capacidade": "400W"
+    },
+    {
+      "id": 3,
+      "foto": "https://images.kabum.com.br/produtos/fotos/103282/fonte-xpg-core-reactor-850w-80-plus-gold-modular_fonte-xpg-core-reactor-850w-80-plus-gold-modular_1571154124_m.jpg",
+      "nome": "Fonte XPG Pylon",
+      "modelo": "XPG 650W",
+      "marca": "XPG",
+      "preco": 399.9,
+      "capacidade": " 650W"
+    },
+    {
+      "id": 4,
+      "foto": "https://images.kabum.com.br/produtos/fotos/91023/91023_index_m.jpg",
+      "nome": "Fonte Corsair CV650",
+      "modelo": "CP-9020236-BR",
+      "marca": "Corsair",
+      "preco": 479.9,
+      "capacidade": "650W"
+    },
+    {
+      "id": 5,
+      "foto": "https://images.kabum.com.br/produtos/fotos/92284/92284_index_m.jpg",
+      "nome": "Fonte Corsair CX750M",
+      "modelo": "CP-9020061",
+      "marca": "Corsair",
+      "preco": 579.9,
+      "capacidade": " 750W"
+    },
+    {
+      "id": 6,
+      "foto": "https://images.kabum.com.br/produtos/fotos/103282/fonte-xpg-core-reactor-850w-80-plus-gold-modular_fonte-xpg-core-reactor-850w-80-plus-gold-modular_1571154124_m.jpg",
+      "nome": "Fonte XPG Core Reactor",
+      "modelo": "Core Reactor",
+      "marca": "XPG",
+      "preco": 699.9,
+      "capacidade": "750W"
+    },
+    {
+      "id": 7,
+      "foto": "https://images.kabum.com.br/produtos/fotos/103282/fonte-xpg-core-reactor-850w-80-plus-gold-modular_fonte-xpg-core-reactor-850w-80-plus-gold-modular_1571154124_m.jpg",
+      "nome": "Fonte XPG Core Reactor",
+      "modelo": "Core Reactor",
+      "marca": "XPG",
+      "preco": 769.9,
+      "capacidade": "850W"
+    },
+    {
+      "id": 8,
+      "foto": "https://images.kabum.com.br/produtos/fotos/92284/92284_index_m.jpg",
+      "nome": "Fonte Corsair HX750",
+      "modelo": "CP-9020137-WW",
+      "marca": "Corsair",
+      "preco": 869.9,
+      "capacidade": "750W"
+    },
+    {
+      "id": 9,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/185326/Fonte-Corsair-ATX-HX850-850W-80-Plus-Platinum-Full-Modular-Sem-Cabo-De-For-a-CP-9020138-WW_1674222519_m.jpg",
+      "nome": "Fonte Corsair RMx Series",
+      "modelo": "CP-9020200-WW",
+      "marca": "Corsair",
+      "preco": 929.9,
+      "capacidade": " 850W"
+    },
+    {
+      "id": 10,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/308553/Fonte-Thermaltake-Toughpower-Grand-1200W-80-Plus-Platinum-PS-TPG-1200F1FAPB-1_1676378293_m.jpg", 
+      "nome": "Fonte Thermaltake Grand",
+      "modelo": "PS-TPG-1200F1FAPB-1",
+      "marca": "Thermaltake",
+      "preco": 2799.9,
+      "capacidade": "1200W"
+    },
+    {
+      "id": 11,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/308845/Fonte-Cooler-Master-V1000-1000W-80-Plus-Gold-PFC-Ativo-RSA00-AFBAG1-WO_1673282301_m.jpg",
+      "nome": "Fonte Cooler Master V1000",
+      "modelo": "MPZ-A001-AFBAPV",
+      "marca": "Cooler Master",
+      "preco": 1649.9,
+      "capacidade": " 1000W"
+    },
+    {
+      "id": 12,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/176658/Fonte-Nobreak-Full-Power-250w-24v-10a-3-04-026-_1674592099_m.jpg",
+      "nome": "Fonte Nobreak, Full",
+      "modelo": "Fonte Full Power, 620w,",
+      "marca": "620w",
+      "preco": 2664.9,
+      "capacidade": "620w"
+    }
+  ],
+  "PlacaMae": [
+    {
+      "id": 1,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/201811/Placa-M-e-Duex-1155-Ddr3-Vga-Hdmi-DX-H61Z_1628518372_m.jpg",
+      "nome": "Placa-Mãe Duex DX H61Z",
+      "modelo": "DX H61Z",
+      "marca": "DUEX",
+      "preco": 280.9,
+      "capacidade": ""
+    },
+    {
+      "id": 2,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/201811/Placa-M-e-Duex-1155-Ddr3-Vga-Hdmi-DX-H61Z_1628518372_m.jpg",
+      "nome": "Placa-Mãe Duex DX H61Z",
+      "modelo": "DX H61Z",
+      "marca": "DUEX",
+      "preco": 289.9,
+      "capacidade": ""
+    },
+    {
+      "id": 3,
+      "foto": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/402527/Placa-Mae-Afox-LGA-1150-H81m-DDR3_1669720093_m.jpg",
+      "nome": "Placa-Mãe Afox H61",
+      "modelo": "ih61-ma2-v3",
+      "marca": "afox",
+      "preco": 301.9,
+      "capacidade": ""
+    },
+    {
+      "id": 4,
+      "foto": "https://images.kabum.com.br/produtos/fotos/113097/placa-mae-msi-mpg-z490-gaming-edge-wifi-intel-lga-1200-atx-ddr4_1591113756_m.jpg",
+      "nome": "Placa Mãe MSI PRO H610M-B",
+      "modelo": "PRO H610M-B",
+      "marca": "MSI",
+      "preco": 499.9,
+      "capacidade": ""
+    },
+    {
+      "id": 5,
+      "foto": "https://images.kabum.com.br/produtos/fotos/188292/placa-mae-gigabyte-h510m-rev-1-0-intel-lga1200-atx-ddr4-h510m-h_1628104476_m.jpg",
+      "nome": "Placa Mãe Gigabyte H510M",
+      "modelo": "H510M (rev.1.0)",
+      "marca": "Gigabyte",
+      "preco": 559.9,
+      "capacidade": ""
+    },
+    {
+      "id": 6,
+      "foto": "https://images.kabum.com.br/produtos/fotos/305941/placa-mae-asus-prime-z690-p-d4-lga-1700-z690-atx-ddr4-90mb18p0-m0eay0_1643035039_m.jpg",
+      "nome": "Placa Mãe Asus Prime",
+      "modelo": "Asus",
+      "marca": "PRIME H510M-A",
+      "preco": 619.9,
+      "capacidade": ""
+    },
+    {
+      "id": 7,
+      "foto": "https://images.kabum.com.br/produtos/fotos/108346/placa-mae-asus-tuf-gaming-x570-plus-br-amd-am4-atx-ddr4_1578656928_m.jpg",
+      "nome": "Placa-Mãe Asus TUF",
+      "modelo": "TUF Gaming B460M-Plus",
+      "marca": "ASUS",
+      "preco": 713.9,
+      "capacidade": ""
+    },
+    {
+      "id": 8,
+      "foto": "https://images.kabum.com.br/produtos/fotos/108346/placa-mae-asus-tuf-gaming-x570-plus-br-amd-am4-atx-ddr4_1578656928_m.jpg",
+      "nome": "Placa Mãe Asus TUF",
+      "modelo": "TUF Gaming B460M-Plus",
+      "marca": "ASUS",
+      "preco": 829.9,
+      "capacidade": ""
+    },
+    {
+      "id": 9,
+      "foto": "https://images.kabum.com.br/produtos/fotos/96739/96739_1526662538_index_m.jpg",
+      "nome": "Placa-Mãe Asus TUF",
+      "modelo": "TUF B360M-PLUS BR",
+      "marca": "ASUS",
+      "preco": 999.9,
+      "capacidade": ""
+    },
+    {
+      "id": 10,
+      "foto": "https://images.kabum.com.br/produtos/fotos/321069/placa-mae-asus-tuf-gaming-b660m-plus-d4-intel-lga-1700-matx-ddr4-rgb_1675102191_m.jpg",
+      "nome": "Placa Mãe Asus TUF",
+      "modelo": "Gaming B660M-PLUS D4",
+      "marca": "Asus",
+      "preco": 1199.9,
+      "capacidade": ""
+    },
+    {
+      "id": 11,
+      "foto": "https://images.kabum.com.br/produtos/fotos/113864/placa-mae-asus-rog-strix-b550-e-gaming-amd-am4-atx-ddr4_1606418552_m.jpg",
+      "nome": "Placa-Mãe Asus ROG Strix",
+      "modelo": "Z690-F GAMING WIFI",
+      "marca": "ASUS",
+      "preco": 3534.9,
+      "capacidade": ""
+    },
+    {
+      "id": 12,
+      "foto": "https://images.kabum.com.br/produtos/fotos/390209/placa-mae-gigabyte-x670-aorus-elite-ax-amd-am5-atx-ddr5-led-rgb-bluetooth-wifi-x670-aorus-elite-ax_1668002950_m.jpg",
+      "nome": "Placa-Mãe Gigabyte PRO",
+      "modelo": "X299 UD4 Pro",
+      "marca": "Gigabyte",
+      "preco": 6515.9,
+      "capacidade": ""
+    }
+  ]
+}

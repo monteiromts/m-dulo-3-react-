@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    min-width: 50px;
+    flex-direction: column;
+    /* border: blue solid 1px; */
+}
+
+.container button {
+    width: 50px;
+}

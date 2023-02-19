@@ -1,0 +1,10 @@
+.container {
+    /* border: solid red 1px; */
+    height: 80vh;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: auto;    
+    
+}
